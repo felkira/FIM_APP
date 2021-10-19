@@ -1,0 +1,186 @@
+C:\Users\mfaja\AppData\Local\Temporary Projects\FIM\bin\Debug\FIM.exe.config
+C:\Users\mfaja\AppData\Local\Temporary Projects\FIM\bin\Debug\FIM.exe
+C:\Users\mfaja\AppData\Local\Temporary Projects\FIM\bin\Debug\FIM.pdb
+C:\Users\mfaja\AppData\Local\Temporary Projects\FIM\bin\Debug\FIM.xml
+C:\Users\mfaja\AppData\Local\Temporary Projects\FIM\obj\Debug\FIM.Form1.resources
+C:\Users\mfaja\AppData\Local\Temporary Projects\FIM\obj\Debug\FIM.Form2.resources
+C:\Users\mfaja\AppData\Local\Temporary Projects\FIM\obj\Debug\FIM.Resources.resources
+C:\Users\mfaja\AppData\Local\Temporary Projects\FIM\obj\Debug\FIM.vbproj.GenerateResource.Cache
+C:\Users\mfaja\AppData\Local\Temporary Projects\FIM\obj\Debug\FIM.exe
+C:\Users\mfaja\AppData\Local\Temporary Projects\FIM\obj\Debug\FIM.xml
+C:\Users\mfaja\AppData\Local\Temporary Projects\FIM\obj\Debug\FIM.pdb
+C:\Users\mfaja\AppData\Local\Temporary Projects\FIM\obj\Debug\FIM.Form10.resources
+C:\Users\mfaja\AppData\Local\Temporary Projects\FIM\obj\Debug\FIM.Form11.resources
+C:\Users\mfaja\AppData\Local\Temporary Projects\FIM\obj\Debug\FIM.Form12.resources
+C:\Users\mfaja\AppData\Local\Temporary Projects\FIM\obj\Debug\FIM.Form13.resources
+C:\Users\mfaja\AppData\Local\Temporary Projects\FIM\obj\Debug\FIM.Form14.resources
+C:\Users\mfaja\AppData\Local\Temporary Projects\FIM\obj\Debug\FIM.Form15.resources
+C:\Users\mfaja\AppData\Local\Temporary Projects\FIM\obj\Debug\FIM.Form16.resources
+C:\Users\mfaja\AppData\Local\Temporary Projects\FIM\obj\Debug\FIM.Form17.resources
+C:\Users\mfaja\AppData\Local\Temporary Projects\FIM\obj\Debug\FIM.Form18.resources
+C:\Users\mfaja\AppData\Local\Temporary Projects\FIM\obj\Debug\FIM.Form19.resources
+C:\Users\mfaja\AppData\Local\Temporary Projects\FIM\obj\Debug\FIM.Form20.resources
+C:\Users\mfaja\AppData\Local\Temporary Projects\FIM\obj\Debug\FIM.Form21.resources
+C:\Users\mfaja\AppData\Local\Temporary Projects\FIM\obj\Debug\FIM.Form22.resources
+C:\Users\mfaja\AppData\Local\Temporary Projects\FIM\obj\Debug\FIM.Form23.resources
+C:\Users\mfaja\AppData\Local\Temporary Projects\FIM\obj\Debug\FIM.Form24.resources
+C:\Users\mfaja\AppData\Local\Temporary Projects\FIM\obj\Debug\FIM.Form25.resources
+C:\Users\mfaja\AppData\Local\Temporary Projects\FIM\obj\Debug\FIM.Form26.resources
+C:\Users\mfaja\AppData\Local\Temporary Projects\FIM\obj\Debug\FIM.Form27.resources
+C:\Users\mfaja\AppData\Local\Temporary Projects\FIM\obj\Debug\FIM.Form3.resources
+C:\Users\mfaja\AppData\Local\Temporary Projects\FIM\obj\Debug\FIM.Form4.resources
+C:\Users\mfaja\AppData\Local\Temporary Projects\FIM\obj\Debug\FIM.Form5.resources
+C:\Users\mfaja\AppData\Local\Temporary Projects\FIM\obj\Debug\FIM.Form6.resources
+C:\Users\mfaja\AppData\Local\Temporary Projects\FIM\obj\Debug\FIM.Form7.resources
+C:\Users\mfaja\AppData\Local\Temporary Projects\FIM\obj\Debug\FIM.Form8.resources
+C:\Users\mfaja\AppData\Local\Temporary Projects\FIM\obj\Debug\FIM.Form9.resources
+E:\2019-MAT-PROKOM 2\4111418009-FAJAR MAULANA\13-BODO AMAT\FIM\FIM\obj\Debug\FIM.Form1.resources
+E:\2019-MAT-PROKOM 2\4111418009-FAJAR MAULANA\13-BODO AMAT\FIM\FIM\obj\Debug\FIM.Form10.resources
+E:\2019-MAT-PROKOM 2\4111418009-FAJAR MAULANA\13-BODO AMAT\FIM\FIM\obj\Debug\FIM.Form11.resources
+E:\2019-MAT-PROKOM 2\4111418009-FAJAR MAULANA\13-BODO AMAT\FIM\FIM\obj\Debug\FIM.Form12.resources
+E:\2019-MAT-PROKOM 2\4111418009-FAJAR MAULANA\13-BODO AMAT\FIM\FIM\obj\Debug\FIM.Form13.resources
+E:\2019-MAT-PROKOM 2\4111418009-FAJAR MAULANA\13-BODO AMAT\FIM\FIM\obj\Debug\FIM.Form14.resources
+E:\2019-MAT-PROKOM 2\4111418009-FAJAR MAULANA\13-BODO AMAT\FIM\FIM\obj\Debug\FIM.Form15.resources
+E:\2019-MAT-PROKOM 2\4111418009-FAJAR MAULANA\13-BODO AMAT\FIM\FIM\obj\Debug\FIM.Form16.resources
+E:\2019-MAT-PROKOM 2\4111418009-FAJAR MAULANA\13-BODO AMAT\FIM\FIM\obj\Debug\FIM.Form17.resources
+E:\2019-MAT-PROKOM 2\4111418009-FAJAR MAULANA\13-BODO AMAT\FIM\FIM\obj\Debug\FIM.Form18.resources
+E:\2019-MAT-PROKOM 2\4111418009-FAJAR MAULANA\13-BODO AMAT\FIM\FIM\obj\Debug\FIM.Form19.resources
+E:\2019-MAT-PROKOM 2\4111418009-FAJAR MAULANA\13-BODO AMAT\FIM\FIM\obj\Debug\FIM.Form2.resources
+E:\2019-MAT-PROKOM 2\4111418009-FAJAR MAULANA\13-BODO AMAT\FIM\FIM\obj\Debug\FIM.Form20.resources
+E:\2019-MAT-PROKOM 2\4111418009-FAJAR MAULANA\13-BODO AMAT\FIM\FIM\obj\Debug\FIM.Form21.resources
+E:\2019-MAT-PROKOM 2\4111418009-FAJAR MAULANA\13-BODO AMAT\FIM\FIM\obj\Debug\FIM.Form22.resources
+E:\2019-MAT-PROKOM 2\4111418009-FAJAR MAULANA\13-BODO AMAT\FIM\FIM\obj\Debug\FIM.Form23.resources
+E:\2019-MAT-PROKOM 2\4111418009-FAJAR MAULANA\13-BODO AMAT\FIM\FIM\obj\Debug\FIM.Form24.resources
+E:\2019-MAT-PROKOM 2\4111418009-FAJAR MAULANA\13-BODO AMAT\FIM\FIM\obj\Debug\FIM.Form25.resources
+E:\2019-MAT-PROKOM 2\4111418009-FAJAR MAULANA\13-BODO AMAT\FIM\FIM\obj\Debug\FIM.Form26.resources
+E:\2019-MAT-PROKOM 2\4111418009-FAJAR MAULANA\13-BODO AMAT\FIM\FIM\obj\Debug\FIM.Form3.resources
+E:\2019-MAT-PROKOM 2\4111418009-FAJAR MAULANA\13-BODO AMAT\FIM\FIM\obj\Debug\FIM.Form4.resources
+E:\2019-MAT-PROKOM 2\4111418009-FAJAR MAULANA\13-BODO AMAT\FIM\FIM\obj\Debug\FIM.Form5.resources
+E:\2019-MAT-PROKOM 2\4111418009-FAJAR MAULANA\13-BODO AMAT\FIM\FIM\obj\Debug\FIM.Form6.resources
+E:\2019-MAT-PROKOM 2\4111418009-FAJAR MAULANA\13-BODO AMAT\FIM\FIM\obj\Debug\FIM.Form7.resources
+E:\2019-MAT-PROKOM 2\4111418009-FAJAR MAULANA\13-BODO AMAT\FIM\FIM\obj\Debug\FIM.Form8.resources
+E:\2019-MAT-PROKOM 2\4111418009-FAJAR MAULANA\13-BODO AMAT\FIM\FIM\obj\Debug\FIM.Form9.resources
+E:\2019-MAT-PROKOM 2\4111418009-FAJAR MAULANA\13-BODO AMAT\FIM\FIM\obj\Debug\FIM.Resources.resources
+E:\2019-MAT-PROKOM 2\4111418009-FAJAR MAULANA\13-BODO AMAT\FIM\FIM\obj\Debug\FIM.vbproj.GenerateResource.Cache
+E:\2019-MAT-PROKOM 2\4111418009-FAJAR MAULANA\13-BODO AMAT\FIM\FIM\bin\Debug\FIM.exe.config
+E:\2019-MAT-PROKOM 2\4111418009-FAJAR MAULANA\13-BODO AMAT\FIM\FIM\bin\Debug\FIM.exe.manifest
+E:\2019-MAT-PROKOM 2\4111418009-FAJAR MAULANA\13-BODO AMAT\FIM\FIM\bin\Debug\FIM.application
+E:\2019-MAT-PROKOM 2\4111418009-FAJAR MAULANA\13-BODO AMAT\FIM\FIM\bin\Debug\FIM.exe
+E:\2019-MAT-PROKOM 2\4111418009-FAJAR MAULANA\13-BODO AMAT\FIM\FIM\bin\Debug\FIM.pdb
+E:\2019-MAT-PROKOM 2\4111418009-FAJAR MAULANA\13-BODO AMAT\FIM\FIM\bin\Debug\FIM.xml
+E:\2019-MAT-PROKOM 2\4111418009-FAJAR MAULANA\13-BODO AMAT\FIM\FIM\obj\Debug\FIM.exe.manifest
+E:\2019-MAT-PROKOM 2\4111418009-FAJAR MAULANA\13-BODO AMAT\FIM\FIM\obj\Debug\FIM.application
+E:\2019-MAT-PROKOM 2\4111418009-FAJAR MAULANA\13-BODO AMAT\FIM\FIM\obj\Debug\FIM.exe
+E:\2019-MAT-PROKOM 2\4111418009-FAJAR MAULANA\13-BODO AMAT\FIM\FIM\obj\Debug\FIM.xml
+E:\2019-MAT-PROKOM 2\4111418009-FAJAR MAULANA\13-BODO AMAT\FIM\FIM\obj\Debug\FIM.pdb
+D:\2019-MAT-PROKOM 2\06\FIM\FIM\obj\Debug\FIM.vbproj.AssemblyReference.cache
+D:\2019-MAT-PROKOM 2\06\FIM\FIM\obj\Debug\FIM.Form1.resources
+D:\2019-MAT-PROKOM 2\06\FIM\FIM\obj\Debug\FIM.Form10.resources
+D:\2019-MAT-PROKOM 2\06\FIM\FIM\obj\Debug\FIM.Form11.resources
+D:\2019-MAT-PROKOM 2\06\FIM\FIM\obj\Debug\FIM.Form12.resources
+D:\2019-MAT-PROKOM 2\06\FIM\FIM\obj\Debug\FIM.Form13.resources
+D:\2019-MAT-PROKOM 2\06\FIM\FIM\obj\Debug\FIM.Form14.resources
+D:\2019-MAT-PROKOM 2\06\FIM\FIM\obj\Debug\FIM.Form15.resources
+D:\2019-MAT-PROKOM 2\06\FIM\FIM\obj\Debug\FIM.Form16.resources
+D:\2019-MAT-PROKOM 2\06\FIM\FIM\obj\Debug\FIM.Form17.resources
+D:\2019-MAT-PROKOM 2\06\FIM\FIM\obj\Debug\FIM.Form18.resources
+D:\2019-MAT-PROKOM 2\06\FIM\FIM\obj\Debug\FIM.Form19.resources
+D:\2019-MAT-PROKOM 2\06\FIM\FIM\obj\Debug\FIM.Form2.resources
+D:\2019-MAT-PROKOM 2\06\FIM\FIM\obj\Debug\FIM.Form20.resources
+D:\2019-MAT-PROKOM 2\06\FIM\FIM\obj\Debug\FIM.Form21.resources
+D:\2019-MAT-PROKOM 2\06\FIM\FIM\obj\Debug\FIM.Form22.resources
+D:\2019-MAT-PROKOM 2\06\FIM\FIM\obj\Debug\FIM.Form23.resources
+D:\2019-MAT-PROKOM 2\06\FIM\FIM\obj\Debug\FIM.Form24.resources
+D:\2019-MAT-PROKOM 2\06\FIM\FIM\obj\Debug\FIM.Form25.resources
+D:\2019-MAT-PROKOM 2\06\FIM\FIM\obj\Debug\FIM.Form26.resources
+D:\2019-MAT-PROKOM 2\06\FIM\FIM\obj\Debug\FIM.Form3.resources
+D:\2019-MAT-PROKOM 2\06\FIM\FIM\obj\Debug\FIM.Form4.resources
+D:\2019-MAT-PROKOM 2\06\FIM\FIM\obj\Debug\FIM.Form5.resources
+D:\2019-MAT-PROKOM 2\06\FIM\FIM\obj\Debug\FIM.Form6.resources
+D:\2019-MAT-PROKOM 2\06\FIM\FIM\obj\Debug\FIM.Form7.resources
+D:\2019-MAT-PROKOM 2\06\FIM\FIM\obj\Debug\FIM.Form8.resources
+D:\2019-MAT-PROKOM 2\06\FIM\FIM\obj\Debug\FIM.Form9.resources
+D:\2019-MAT-PROKOM 2\06\FIM\FIM\obj\Debug\FIM.Resources.resources
+D:\2019-MAT-PROKOM 2\06\FIM\FIM\obj\Debug\FIM.vbproj.GenerateResource.cache
+D:\2019-MAT-PROKOM 2\06\FIM\FIM\obj\Debug\FIM.vbproj.CoreCompileInputs.cache
+D:\2019-MAT-PROKOM 2\06\FIM\FIM\obj\Debug\FIM.exe
+D:\2019-MAT-PROKOM 2\06\FIM\FIM\obj\Debug\FIM.xml
+D:\2019-MAT-PROKOM 2\06\FIM\FIM\obj\Debug\FIM.pdb
+D:\2019-MAT-PROKOM 2\06 - MCES TRIAL\FIM\FIM\bin\Debug\FIM.exe.config
+D:\2019-MAT-PROKOM 2\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.exe
+D:\2019-MAT-PROKOM 2\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.xml
+D:\2019-MAT-PROKOM 2\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.pdb
+D:\2019-MAT-PROKOM 2\06 - MCES TRIAL\FIM\FIM\bin\Debug\FIM.exe.manifest
+D:\2019-MAT-PROKOM 2\06 - MCES TRIAL\FIM\FIM\bin\Debug\FIM.application
+D:\2019-MAT-PROKOM 2\06 - MCES TRIAL\FIM\FIM\bin\Debug\FIM.exe
+D:\2019-MAT-PROKOM 2\06 - MCES TRIAL\FIM\FIM\bin\Debug\FIM.pdb
+D:\2019-MAT-PROKOM 2\06 - MCES TRIAL\FIM\FIM\bin\Debug\FIM.xml
+D:\2019-MAT-PROKOM 2\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form1.resources
+D:\2019-MAT-PROKOM 2\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form10.resources
+D:\2019-MAT-PROKOM 2\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form11.resources
+D:\2019-MAT-PROKOM 2\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form12.resources
+D:\2019-MAT-PROKOM 2\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form13.resources
+D:\2019-MAT-PROKOM 2\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form14.resources
+D:\2019-MAT-PROKOM 2\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form15.resources
+D:\2019-MAT-PROKOM 2\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form16.resources
+D:\2019-MAT-PROKOM 2\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form17.resources
+D:\2019-MAT-PROKOM 2\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form18.resources
+D:\2019-MAT-PROKOM 2\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form19.resources
+D:\2019-MAT-PROKOM 2\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form2.resources
+D:\2019-MAT-PROKOM 2\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form20.resources
+D:\2019-MAT-PROKOM 2\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form21.resources
+D:\2019-MAT-PROKOM 2\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form22.resources
+D:\2019-MAT-PROKOM 2\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form23.resources
+D:\2019-MAT-PROKOM 2\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form24.resources
+D:\2019-MAT-PROKOM 2\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form25.resources
+D:\2019-MAT-PROKOM 2\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form26.resources
+D:\2019-MAT-PROKOM 2\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form3.resources
+D:\2019-MAT-PROKOM 2\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form4.resources
+D:\2019-MAT-PROKOM 2\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form5.resources
+D:\2019-MAT-PROKOM 2\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form6.resources
+D:\2019-MAT-PROKOM 2\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form7.resources
+D:\2019-MAT-PROKOM 2\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form8.resources
+D:\2019-MAT-PROKOM 2\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form9.resources
+D:\2019-MAT-PROKOM 2\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Resources.resources
+D:\2019-MAT-PROKOM 2\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.vbproj.GenerateResource.Cache
+D:\2019-MAT-PROKOM 2\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.exe.manifest
+D:\2019-MAT-PROKOM 2\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.application
+D:\FIM APP\06 - MCES TRIAL\FIM\FIM\bin\Debug\FIM.exe.config
+D:\FIM APP\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.exe
+D:\FIM APP\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.xml
+D:\FIM APP\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.pdb
+D:\FIM APP\06 - MCES TRIAL\FIM\FIM\bin\Debug\FIM.exe.manifest
+D:\FIM APP\06 - MCES TRIAL\FIM\FIM\bin\Debug\FIM.application
+D:\FIM APP\06 - MCES TRIAL\FIM\FIM\bin\Debug\FIM.exe
+D:\FIM APP\06 - MCES TRIAL\FIM\FIM\bin\Debug\FIM.pdb
+D:\FIM APP\06 - MCES TRIAL\FIM\FIM\bin\Debug\FIM.xml
+D:\FIM APP\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form1.resources
+D:\FIM APP\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form10.resources
+D:\FIM APP\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form11.resources
+D:\FIM APP\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form12.resources
+D:\FIM APP\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form13.resources
+D:\FIM APP\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form14.resources
+D:\FIM APP\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form15.resources
+D:\FIM APP\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form16.resources
+D:\FIM APP\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form17.resources
+D:\FIM APP\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form18.resources
+D:\FIM APP\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form19.resources
+D:\FIM APP\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form2.resources
+D:\FIM APP\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form20.resources
+D:\FIM APP\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form21.resources
+D:\FIM APP\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form22.resources
+D:\FIM APP\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form23.resources
+D:\FIM APP\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form24.resources
+D:\FIM APP\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form25.resources
+D:\FIM APP\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form26.resources
+D:\FIM APP\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form3.resources
+D:\FIM APP\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form4.resources
+D:\FIM APP\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form5.resources
+D:\FIM APP\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form6.resources
+D:\FIM APP\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form7.resources
+D:\FIM APP\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form8.resources
+D:\FIM APP\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Form9.resources
+D:\FIM APP\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.Resources.resources
+D:\FIM APP\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.vbproj.GenerateResource.Cache
+D:\FIM APP\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.exe.manifest
+D:\FIM APP\06 - MCES TRIAL\FIM\FIM\obj\Debug\FIM.application
